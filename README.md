@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Bahtiyar</h1>
 <h3>Hey there! I mainly work in embedded software development, with beginner to intermediate level experience on platforms like STM32 and ESP32. Additionally, I work with programming languages such as Python, JavaScript, and C#. This has given me a wide range of knowledge in software development. I'm also interested in machine learning and both backend and frontend development. My goal is to combine my knowledge in these areas with embedded systems to develop projects. With all of this knowledge and experience, I want to be involved in different projects in the tech world. 😊</h3>
 
-- 💬 Ask me about **embedded C, C#.**
+- 💬 Ask me about **embedded C** and **C#.**
 
 - 📫 How to reach me **bhtyr.byr@gmail.com**
 
