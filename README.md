@@ -1,7 +1,9 @@
-<h1>Hi 👋, I'm Bahtiyar</h1>
-<h4>Hey there! I mainly work in embedded software development, with beginner to intermediate level experience on platforms like STM32 and ESP32. Additionally, I work with programming languages such as Python, JavaScript, and C#. This has given me a wide range of knowledge in software development. I'm also interested in machine learning and both backend and frontend development. My goal is to combine my knowledge in these areas with embedded systems to develop projects. With all of this knowledge and experience, I want to be involved in different projects in the tech world. 😊</h3>
+<h1 align="center">Hi 👋, I'm Bahtiyar</h1>
+<h3 align="center">Hey there! I mainly work in embedded software development, with beginner to intermediate level experience on platforms like STM32 and ESP32. Additionally, I work with programming languages such as Python, JavaScript, and C#. This has given me a wide range of knowledge in software development. I'm also interested in machine learning and both backend and frontend development. My goal is to combine my knowledge in these areas with embedded systems to develop projects. With all of this knowledge and experience, I want to be involved in different projects in the tech world. 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhtyrbyr&label=Profile%20views&color=480eb4&style=flat" alt="bhtyrbyr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhtyrbyr" alt="bhtyrbyr" /></a> </p>
 
 - 🌱 I’m currently learning **Web Api, SQL, C++ ...**
 
